@@ -22,7 +22,7 @@ Manage your tasks directly from the terminal using basic commands.
 
 Clone the repository:
 
-git clone https://github.com/sectoruu/cli-task-manager
+git clone https://github.com/sectoruu/cli-task-manager.git
 
 cd TaskTracker
 
