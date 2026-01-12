@@ -1,0 +1,15 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "cli task tracker app",
+  "license": "ISC",
+  "author": "Artem Lehkun",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "task-cli": "./main.js"
+  }
+}
